@@ -57,7 +57,7 @@ color: #FFF;}
     <td width="200" valign="top">
 	<table valign="center" align="center" border="0" width="200">
       <tr>
-        <td width="226" height="147" bgcolor="#999999"><div align="center"><a href="end.rapid.htm"><img src="end.rapid/map.jpg" width="116" height="101"></a></div></td>
+        <td width="226" height="147" bgcolor="#999999"><div align="center"><a href="end.rapid.htm"><img src="jpg/map.jpg" width="116" height="101"></a></div></td>
       </tr>
       <tr>
         <td height="79" bgcolor="#FF3300"><div align="center"><a href="end.rapid/Documentation/end.rapid.Manual.htm#OverviewofEndRapid" class="style1">Overview of<br>END and RAPID</a> </div></td>
@@ -87,7 +87,7 @@ color: #FFF;}
             <p class="style10"><span class="style10"><span class="style12">Absolutely-scaled electron density maps for more accurate signal<br>
             True noise maps to help clear the fog</span></span></p>
             <p class="style10">&nbsp;</p>
-          <p class="style10"><img src="end.rapid/5475282862_12177d461f_b.jpg" width="770" height="253"></p>
+          <p class="style10"><img src="jpg/ggb.jpg" width="770" height="253"></p>
           <p class="style10">&nbsp;</p>
           <blockquote>
             <blockquote>
