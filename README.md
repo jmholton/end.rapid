@@ -1,5 +1,6 @@
 <HTML>
 <head>
+</head>
 <title>END/RAPID</title>
 <style type="text/css">
 <!--
@@ -63,7 +64,7 @@ color: #FFF;}
         <td width="839" height="146" bordercolor="#999999" bgcolor="#999999"><div align="center" class="style2">END and RAPID Maps</div></td>
       </tr>
     </table>
-	<!-- InstanceBeginEditable name="EditRegion1" --><table width="834" height="785" border="0" >
+	<table width="834" height="785" border="0" >
         <tr>
           <td width="828" height="781" align="center" valign="top"><p class="style10">&nbsp;</p>
             <p class="style10"><span class="style10"><span class="style12">Absolutely-scaled electron density maps for more accurate signal<br>
@@ -83,9 +84,9 @@ color: #FFF;}
           <p class="style10">&nbsp;</p></td>
         </tr>
       </table>
-	  <!-- InstanceEndEditable --></td>
+	  </td>
   </tr>
 </table>
 </body>
-<!-- InstanceEnd --></html>
+</html>
 
