@@ -13,10 +13,7 @@
         <td height="79" bgcolor="#FF3300"><div align="center"><a href="end.rapid/Documentation/end.rapid.Manual.htm#OverviewofEndRapid" class="style1">Overview of<br>END and RAPID</a> </div></td>
       </tr>
       <tr>
-        <td height="71" bgcolor="#999999"><div align="center"><a href="end.rapid/Documentation/documentation.htm" class="style1">Documentation</a></div></td>
-      </tr>
-      <tr>
-        <td height="68" bgcolor="#FF3300"><div align="center"><a href="end.rapid/TestSets/testSets.htm" class="style1">Test Sets</a></div></td>
+        <td height="71" bgcolor="#999999"><div align="center"><a href="Documentation/documentation.htm" class="style1">Documentation</a></div></td>
       </tr>
        <td height="74" bgcolor="#999999"><div align="center"><a href="http://bl831.als.lbl.gov/ringer/ringer.htm" class="style1">Ringer</a></div></td>
        </tr>
