@@ -1,39 +1,6 @@
 <HTML>
 <head>
 </head>
-<title>END/RAPID</title>
-<style type="text/css">
-<!--
-.style1 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; 
-font-size: 18px; 
-color: #FFF;}
-.style2 {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 70px;
-	color: #FFFFFF;
-	font-weight: bold;
-}
--->
-</style>
-<style type="text/css">
-.style10 {
-	font-size: 18px;
-	font-family: Arial, Helvetica, sans-serif;
-	font-weight: bold;
-}
-.style11 {
-	font-size: 18px;
-	font-family: Arial, Helvetica, sans-serif;
-}
-.style1 a {
-	color: #FFF;
-}
-.style12 {
-	font-size: 24px;
-}
-</style>
-
-</head>
 <body>
 <table width="990" border="0">
   <tr>
