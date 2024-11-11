@@ -10,7 +10,7 @@
         <td width="226" height="147" bgcolor="#999999"><div align="center"><a href="end.rapid.htm"><img src="jpg/map.jpg" width="116" height="101"></a></div></td>
       </tr>
       <tr>
-        <td height="79" bgcolor="#FF3300"><div align="center"><a href="end.rapid/Documentation/end.rapid.Manual.htm#OverviewofEndRapid" class="style1">Overview of<br>END and RAPID</a> </div></td>
+        <td height="79" bgcolor="#FF3300"><div align="center"><a href="Documentation/end.rapid.Manual.htm#OverviewofEndRapid" class="style1">Overview of<br>END and RAPID</a> </div></td>
       </tr>
       <tr>
         <td height="71" bgcolor="#999999"><div align="center"><a href="Documentation/documentation.htm" class="style1">Documentation</a></div></td>
