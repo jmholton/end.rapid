@@ -141,6 +141,9 @@ awk '{tag[brace+0]=$1}\
    tag[0]=="data_manager" && tag[1]=="miller_array"{next}\
    tag[0]=="data_manager" && tag[1]=="default_model"{next}\
    tag[0]=="data_manager" && tag[1]=="default_miller_array"{next}\
+   tag[0]=="data_manager" && tag[1]=="phil_files"{next}\
+   tag[0]=="data_manager" && tag[1]=="default_phil"{next}\
+   tag[0]=="data_manager"{next}\
    {print}' |\
 cat >! ${prefix}.eff
 
