@@ -1,3 +1,4 @@
+<HTML>
 <head>
 <title>END/RAPID</title>
 <style type="text/css">
